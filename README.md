@@ -1,2 +1,2 @@
-# tugas1_GiTHub_AnissaFitriaSari
+# tugas1_GitHub_AnissaFitriaSari
 Tugas 1
