@@ -1,2 +1,2 @@
-# tugas1_GiyHub_AnissaFitriaSari
-Tuhas 1
+# tugas1_GiTHub_AnissaFitriaSari
+Tugas 1
